@@ -21,6 +21,7 @@ int main() {
 
     printf("Enter any positive number:");
     scanf("%f" , &f);
+    float d;
     int i = f;
     printf("%d" , i);
 
